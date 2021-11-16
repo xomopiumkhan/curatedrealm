@@ -1,0 +1,14 @@
+* {padding: 0; margin: 0}
+
+.main {background: #111; height: 60vh; width: 55%; position: absolute; transform: translate(-50%,-50%); left: 50%; top: 40%; padding: 0 100px}
+.content {color: #fff; font-size: 19px; font-family: 'Merriweather', serif; text-align: center; margin-top: 21%;}
+.author {color: #fff; font-size: 20px; font-family: 'Merriweather', serif; text-align: center; margin-top: 5%}
+.buttons {position: absolute; transform: translate(-50%,-50%); left: 50%; top: 82%;}
+.change-content {padding: 10px 20px; font-size: 15px; font-family: 'Roboto', serif; font-weight: 500; border-radius: 100px; border: none; cursor: pointer; background: #111; color: #fff; transition: 0.3s}
+.change-content:hover {transform: scale(1.1)}
+.footer {align-items: center;height: 60px; position: absolute; bottom: 0; text-align: center; left: 30%; width: 45%; display: flex; justify-content: space-evenly}
+.logo {font-size: 25px; font-family: 'Montserrat', serif; font-weight: 500;}
+.credits {font-size: 17px; text-align: center; font-family: 'Roboto', serif;}
+.copyright {font-size: 15px; font-weight: 300}
+.vr {height: 30px; background: rgba(0,0,0,0.7); width: 2px;}
+.logo span {font-size: 15px}
